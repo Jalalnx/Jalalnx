@@ -23,13 +23,22 @@
 
 I am a backend  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sudan.
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 - :telescope: I’m working as a  backend  Developer and contributing to backend for building web applications.
-
 - :seedling:  Cyber-Security Enthusiast | CTF player.
-
 - :zap: In my free time, I solve problems on LeetCode and HackerEarth and read tech articles.
+- 💡 &nbsp;Some technologies I enjoy working with include Laravel, JavaScript, NodeJS and ExpressJS. Currently exploring Rust.\
+🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
+✉️ &nbsp;You can shoot me an email at jalalnx@gmail.com! I'll try to respond as soon as I can.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Daroat-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/daroat-jalal-jamma-a-2a63681a8)
+
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/daroat-jalal-jamma-a-2a63681a8/">
+  </a>
+- Struggling on <a href="https://www.leetcode.com/Jalalnx/">LeetCode</a> 😍
+- Practising on <a href="https://www.hackerearth.com/@moogdaroat99">HackerEarth</a> 🙃
+- Sharing updates on <a href="https://www.linkedin.com/in/daroat-jalal-jamma-a-2a63681a8/">LinkedIn</a> 😇
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -73,5 +82,3 @@ I am a backend  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalalnx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
-
-
