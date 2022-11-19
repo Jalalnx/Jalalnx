@@ -27,7 +27,7 @@ I am a backend  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling:  Cyber-Security Enthusiast | CTF player.
 
-- :zap: In my free time, I solve problems on HackerEarth and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and HackerEarth and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Daroat-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/daroat-jalal-jamma-a-2a63681a8)
 
@@ -55,10 +55,15 @@ I am a backend  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 
+
 ### :fire: My Stats :
 
-<div id="header" align="center">
+<div id="header" >
 
+  
+  
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/Jalalnx?ext=activity)
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jalalnx&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalalnx&count_private=true&show_icons=true)&nbsp;
