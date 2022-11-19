@@ -58,10 +58,10 @@ I am a backend  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 
-<div id="header" >
+<div id="header" align="center" style="display:flex ; flex : row">
 
   
-  
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/Jalalnx?ext=heatmap)
   ![Leetcode Stats](https://leetcard.jacoblin.cool/Jalalnx?ext=activity)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jalalnx&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
