@@ -65,7 +65,7 @@ I am a backend  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 
-### :fire: My Stats :
+### :fire: My status :
 
 <div id="header" align="center" style="display:flex ; flex : row">
 
